@@ -4,5 +4,21 @@ This project aims to ease the hardships of everyday life and help release mental
 
 Our approach is grounded in **readable language, relatable examples, and precise metaphors**, creating a fresh way to explore philosophical thinking that anyone can understand and apply.
 
+**Structure**
+
+1. Why life often feels so hard in modern society
+
+2. What dimensional reduction is, and why it becomes a natural mode of human quantitative thinking
+
+3. How quantitative thinking contributes to most of our mental challenges
+
+4. The loss of meaning and information during dimensional reduction
+
+5. How to move beyond the quantitative mindset
+
+6. The block universe hypothesis and the deeper meaning of human life
+
+7. Conclusion and practical guidance
+
 **About the Author:**  
 Brook Xiong is a Chinese trans woman and an idealist who believes that the best way to bring healing and peace to people is by helping them change the way they perceive their lives and the world around them.
